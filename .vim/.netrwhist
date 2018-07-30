@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =8
+let g:netrw_dirhist_1='/Users/spectrumone/Projects/Pick-backend/static/css'
+let g:netrw_dirhist_2='/Users/spectrumone/Projects/Pick-backend/static'
+let g:netrw_dirhist_3='/Users/spectrumone/Projects/Pick-backend/static/css'
+let g:netrw_dirhist_4='/Users/spectrumone/Projects/BE-Pick/apps/consignors'
+let g:netrw_dirhist_5='/Users/spectrumone/Projects/Pick-backend'
+let g:netrw_dirhist_6='/Users/spectrumone/Projects/BE-Pick/apps'
+let g:netrw_dirhist_7='/Users/spectrumone/Projects/BE-Pick/apps/core'
+let g:netrw_dirhist_8='/Users/spectrumone/Projects/BE-Pick/apps/core/utilities'
